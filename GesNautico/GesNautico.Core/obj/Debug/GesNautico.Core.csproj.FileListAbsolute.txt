@@ -1,0 +1,45 @@
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\LiteDB.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\LiteDB.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csprojResolveAssemblyReference.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.Properties.Resources.resources
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csproj.GenerateResource.Cache
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.Properties.Resources.resources
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csproj.GenerateResource.Cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Core.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\bin\Debug\MvvmDialogs.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.Properties.Resources.resources
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.csproj.GenerateResource.Cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.Core\obj\Debug\GesNautico.Core.pdb

@@ -1,0 +1,270 @@
+﻿<UserControl
+    x:Class="GesNautico.UI.Views.Atletas.AtletaView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:GesNautico.UI.Views.Atletas"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="500"
+    d:DesignWidth="600"
+    mc:Ignorable="d">
+    <StackPanel>
+
+        <DockPanel
+            Width="580"
+            MinWidth="200"
+            HorizontalAlignment="Left">
+            <StackPanel>
+                <Image
+                    x:Name="imgFoto"
+                    Width="100"
+                    Height="100"
+                    DockPanel.Dock="Left"
+                    Source="{Binding Foto, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}">
+                    <!--<Image.Source>
+                        <BitmapImage UriSource="/Views/Resources/user.png" />
+                    </Image.Source>-->
+                </Image>
+                <Button
+                    x:Name="btnFoto"
+                    Width="auto"
+                    Height="auto"
+                    Margin="0,0,0,0"
+                    HorizontalAlignment="Left"
+                    Background="Transparent"
+                    Command="{Binding AtletaInsertFoto}"
+                    Content="{iconPacks:PackIconOcticons Kind=DeviceCamera,
+                                                         Width=12,
+                                                         Height=12,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding AtletaFoto}" />
+            </StackPanel>
+
+            <TextBlock
+                Margin="0,0,0,8"
+                Style="{StaticResource Heading2}"
+                Text="" />
+
+            <StackPanel x:Name="Form" Orientation="Vertical">
+
+                <StackPanel.Resources>
+                    <Style TargetType="StackPanel">
+                        <Setter Property="Orientation" Value="Horizontal" />
+                        <Setter Property="Margin" Value="0,0,0,4" />
+                    </Style>
+                    <Style BasedOn="{StaticResource {x:Type Label}}" TargetType="Label">
+                        <Setter Property="Width" Value="80" />
+                        <Setter Property="VerticalAlignment" Value="Center" />
+                    </Style>
+                    <Style BasedOn="{StaticResource {x:Type CheckBox}}" TargetType="CheckBox">
+                        <Setter Property="Padding" Value="0,3" />
+                    </Style>
+                    <Style BasedOn="{StaticResource {x:Type RadioButton}}" TargetType="RadioButton">
+                        <Setter Property="Padding" Value="0,3" />
+                    </Style>
+                    <Style BasedOn="{StaticResource {x:Type TextBox}}" TargetType="TextBox">
+                        <Setter Property="VerticalContentAlignment" Value="Center" />
+                    </Style>
+                </StackPanel.Resources>
+
+                <DockPanel />
+
+                <DockPanel>
+                    <Label
+                        HorizontalAlignment="Left"
+                        Content="Escalão:"
+                        DockPanel.Dock="Left" />
+                    <ComboBox
+                        x:Name="cbCategory"
+                        Width="120"
+                        HorizontalAlignment="Left"
+                        DockPanel.Dock="Left"
+                        ItemsSource="{Binding EscalaoGeral}"
+                        SelectedItem="{Binding Escalao, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+                    <ComboBox
+                        x:Name="cbState"
+                        Width="100"
+                        HorizontalAlignment="Right"
+                        DockPanel.Dock="Right"
+                        ItemsSource="{Binding Estados}"
+                        SelectedItem="{Binding Estado, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <Label
+                        Width="50"
+                        HorizontalAlignment="Right"
+                        Content="Estado:"
+                        DockPanel.Dock="Right" />
+                </DockPanel>
+                <StackPanel Height="5" />
+                <StackPanel>
+                    <Label Content="Nº Atleta:" />
+                    <TextBox
+                        x:Name="tbNumAtleta"
+                        Width="60"
+                        HorizontalContentAlignment="Center"
+                        Text="{Binding NumAtleta, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+                <StackPanel Height="5" />
+                <StackPanel>
+                    <Label Content="Nome:" />
+                    <TextBox
+                        x:Name="tbNome"
+                        Width="400"
+                        Text="{Binding Nome, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+
+                <StackPanel>
+                    <Label Content="Data Nasc.:" />
+                    <DatePicker
+                        x:Name="DateBirth"
+                        Width="110"
+                        Height="24"
+                        SelectedDate="{Binding DataNasc, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <Label
+                        Width="auto"
+                        Margin="10,0,0,0"
+                        Content="Idade: " />
+                    <TextBox
+                        x:Name="tbIdade"
+                        Width="40"
+                        Margin="10,0,0,0"
+                        IsReadOnly="True"
+                        Text="{Binding Idade, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <Label
+                        Width="40"
+                        Margin="34,0,0,0"
+                        HorizontalAlignment="Left"
+                        Content="Sexo:"
+                        DockPanel.Dock="Left" />
+                    <ComboBox
+                        x:Name="cbSex"
+                        Width="100"
+                        HorizontalAlignment="Left"
+                        DockPanel.Dock="Left"
+                        ItemsSource="{Binding Sexos}"
+                        SelectedItem="{Binding Sexo, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+                <StackPanel Height="5" />
+                <StackPanel>
+                    <Label Content="Morada" />
+                    <TextBox
+                        x:Name="tbMorada"
+                        Width="380"
+                        Text="{Binding Morada, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+                <StackPanel>
+                    <Label Content="Localidade:" />
+                    <TextBox
+                        x:Name="tbLocalidae"
+                        Width="200"
+                        Text="{Binding Localidade, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <Label
+                        Width="70"
+                        Margin="10,0,0,0"
+                        Content="Cod. Postal:" />
+                    <TextBox
+                        x:Name="tbCodPostal"
+                        Width="100"
+                        Text="{Binding CodPostal, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                </StackPanel>
+                <StackPanel Height="5" />
+                <StackPanel>
+                    <Label Content="Telef.:" />
+                    <TextBox
+                        x:Name="tbTelef"
+                        Width="100"
+                        Text="{Binding Telef, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+                    <Label
+                        Width="40"
+                        Margin="10,0,0,0"
+                        Content="Tlm:" />
+                    <TextBox
+                        x:Name="tbTlm"
+                        Width="100"
+                        Text="{Binding Tlm, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+                </StackPanel>
+                <StackPanel>
+                    <Label Content="Email:" />
+                    <TextBox
+                        x:Name="tbEmail"
+                        Width="150"
+                        Text="{Binding Email, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+                    <Button
+                        x:Name="btnEmail"
+                        Width="auto"
+                        Height="auto"
+                        Margin="5,0,0,0"
+                        HorizontalAlignment="Left"
+                        Background="Transparent"
+                        Command="{Binding AtletaInsertFoto}"
+                        Content="{iconPacks:PackIconOcticons Kind=Mail,
+                                                             Width=12,
+                                                             Height=12,
+                                                             Spin=False}"
+                        DockPanel.Dock="Right"
+                        Foreground="#0047ab"
+                        Style="{StaticResource TransparentStyle}"
+                        ToolTip="{Binding AtletaFoto}" />
+                </StackPanel>
+                <StackPanel Height="5" />
+                <StackPanel>
+                    <Label Content="Obs.:" />
+                    <TextBox
+                        x:Name="tbObs"
+                        Width="400"
+                        Height="80"
+                        VerticalContentAlignment="Top"
+                        Text="{Binding Obs, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+
+                </StackPanel>
+
+                <DockPanel>
+                    <Button
+                        x:Name="btnSave"
+                        Width="auto"
+                        Height="auto"
+                        Margin="5,0,0,0"
+                        HorizontalAlignment="Right"
+                        Background="Transparent"
+                        Command="{Binding AtletaSave}"
+                        CommandParameter="{Binding atleta}"
+                        Content="{iconPacks:PackIconMaterial Kind=ContentSave,
+                                                             Width=26,
+                                                             Height=26,
+                                                             Spin=False}"
+                        DockPanel.Dock="Right"
+                        Foreground="#0047ab"
+                        Style="{StaticResource TransparentStyle}"
+                        ToolTip="{Binding AtletaSaveContent}" />
+
+                    <!--  TODO  -->
+                    <Button
+                        x:Name="btnCancel"
+                        Width="auto"
+                        Height="auto"
+                        Margin="5,0,0,0"
+                        HorizontalAlignment="Right"
+                        Background="Transparent"
+                        Command="{Binding AtletaCancel}"
+                        Content="{iconPacks:PackIconMaterial Kind=Close,
+                                                             Width=26,
+                                                             Height=26,
+                                                             Spin=False}"
+                        DockPanel.Dock="Right"
+                        Foreground="#0047ab"
+                        Style="{StaticResource TransparentStyle}"
+                        ToolTip="{Binding AtletaCancelContent}"
+                        Visibility="Hidden" />
+
+                </DockPanel>
+
+            </StackPanel>
+        </DockPanel>
+
+    </StackPanel>
+</UserControl>

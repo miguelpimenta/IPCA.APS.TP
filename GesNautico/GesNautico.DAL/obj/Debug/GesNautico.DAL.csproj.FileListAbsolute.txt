@@ -1,0 +1,36 @@
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll.config
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll.config
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll.config
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.DAL\obj\Debug\GesNautico.DAL.pdb

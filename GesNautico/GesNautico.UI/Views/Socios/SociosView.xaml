@@ -1,0 +1,200 @@
+﻿<UserControl
+    x:Class="GesNautico.UI.Pages.SociosView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:GesNautico.UI.Pages"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:dc="clr-namespace:GesNautico.Core.ViewModels;assembly=GesNautico.Core"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:vm="clr-namespace:GesNautico.Core.ViewModels;assembly=GesNautico.Core"
+    d:DesignHeight="300"
+    d:DesignWidth="300"
+    mc:Ignorable="d">
+     <UserControl.DataContext>
+        <vm:AtletasViewModel />
+    </UserControl.DataContext>
+
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <TextBlock
+                x:Name="textBlock"
+                Text="Pesquisar"
+                TextWrapping="Wrap" />
+            <StackPanel Height="auto" Orientation="Horizontal">
+                <TextBox
+                    x:Name="tbSearchAtletas"
+                    Width="200"
+                    Height="26"
+                    Margin="0,6"
+                    VerticalContentAlignment="Center"
+                    Text="{Binding Pesquisa, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"
+                    TextWrapping="Wrap">
+                    <TextBox.InputBindings>
+                        <KeyBinding Key="Enter" Command="{Binding AtletasRefresh}" />
+                        <KeyBinding Key="Return" Command="{Binding AtletasRefresh}" />
+                    </TextBox.InputBindings>
+                </TextBox>
+                <ComboBox
+                    x:Name="cbTipoAtleta"
+                    Width="120"
+                    Height="26"
+                    Margin="5,0,0,0"
+                    VerticalContentAlignment="Center"
+                    ItemsSource="{Binding EscalaoPesquisa}"
+                    SelectedIndex="0"
+                    SelectedItem="{Binding Escalao, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}">
+                    <!--  Text="{Binding Escalao, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}">  -->
+                    <!--<i:EventTrigger EventName="SelectionChangeCommitted">
+                        <i:InvokeCommandAction Command="{Binding AtletasRefresh}" />
+                    </i:EventTrigger>-->
+                </ComboBox>
+                <ComboBox
+                    x:Name="cbEstado"
+                    Width="120"
+                    Height="26"
+                    Margin="5,0,0,0"
+                    VerticalContentAlignment="Center"
+                    ItemsSource="{Binding Estados}"
+                    SelectedIndex="0"
+                    Text="{Binding Estado, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" />
+                <Button
+                    x:Name="btnRefresh"
+                    Width="auto"
+                    Height="auto"
+                    Margin="5,0,0,0"
+                    Background="Transparent"
+                    Command="{Binding AtletasRefresh}"
+                    Content="{iconPacks:PackIconMaterial Kind=Refresh,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding AtletasRefreshContent}" />
+                <Button
+                    x:Name="btnNew"
+                    Width="auto"
+                    Height="auto"
+                    Margin="05,0,0,0"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Click="btnNew_Click"
+                    Content="{iconPacks:PackIconMaterial Kind=Plus,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding InsertAtleta}" />
+
+                <!--  TODO  -->
+                <!--<Button
+                    x:Name="btnExport"
+                    Width="auto"
+                    Height="auto"
+                    Margin="5,0,0,0"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Command="{Binding ExportList}"
+                    Content="{iconPacks:PackIconMaterial Kind=Export,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding ExportAtletasList}" >
+                CellStyle="{StaticResource DataGridContentCentering02}"
+                </Button>-->
+            </StackPanel>
+
+            <DataGrid
+                x:Name="dgdAtletas"
+                Height="auto"
+                AutoGenerateColumns="False"
+                Background="Transparent"
+                CanUserAddRows="False"
+                CanUserDeleteRows="False"
+                CellStyle="{StaticResource DataGridContentCellCentering}"
+                GridLinesVisibility="Horizontal"
+                HeadersVisibility="Column"
+                IsReadOnly="True"
+                ItemsSource="{Binding Atletas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                RowBackground="Transparent"
+                RowHeight="64"
+                SelectionMode="Single"
+                SelectionUnit="FullRow">
+                <DataGrid.Columns>
+                    <DataGridTextColumn
+                        x:Name="Id"
+                        Binding="{Binding Id}"
+                        Header="Id"
+                        Visibility="Hidden" />
+                    <DataGridTemplateColumn
+                        x:Name="Foto"
+                        MinWidth="40"
+                        IsReadOnly="True"
+                        Visibility="Visible">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Image RenderOptions.BitmapScalingMode="HighQuality" Source="{Binding FotoBitmap, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn
+                        x:Name="PkIdAtleta"
+                        Binding="{Binding PkIdAtleta}"
+                        Header="PkIdAtleta"
+                        Visibility="Hidden" />
+                    <DataGridTextColumn
+                        x:Name="Nome"
+                        Width="Auto"
+                        MinWidth="200"
+                        Binding="{Binding Nome}"
+                        Header="Nome" />
+                    <DataGridTextColumn
+                        x:Name="Idade"
+                        Width="Auto"
+                        Binding="{Binding Idade}"
+                        Header="Idade">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn
+                        x:Name="Email"
+                        Width="Auto"
+                        Binding="{Binding Email}"
+                        Header="Email" />
+                    <DataGridTextColumn
+                        x:Name="Telef"
+                        Width="Auto"
+                        Binding="{Binding Telef}"
+                        Header="Telefone" />
+                    <DataGridTextColumn
+                        x:Name="Tlm"
+                        Width="Auto"
+                        Binding="{Binding Tlm}"
+                        Header="Tlm" />
+                    <DataGridTextColumn
+                        x:Name="Activo"
+                        Binding="{Binding Activo}"
+                        Header="Activo"
+                        Visibility="Hidden" />
+                </DataGrid.Columns>
+                <DataGrid.Resources>
+                    <Style TargetType="DataGridRow">
+                        <EventSetter Event="MouseDoubleClick" Handler="DataGridRow_MouseDoubleClick" />
+                    </Style>
+                </DataGrid.Resources>
+            </DataGrid>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

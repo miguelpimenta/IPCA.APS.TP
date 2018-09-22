@@ -1,0 +1,124 @@
+﻿<UserControl
+    x:Class="GesNautico.UI.Views.Atletas.Atleta.ProvasView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:GesNautico.UI.Views.Atletas.Atleta"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    d:DesignHeight="300"
+    d:DesignWidth="300"
+    mc:Ignorable="d">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <TextBlock
+                x:Name="textBlock"
+                Text="Pesquisar"
+                TextWrapping="Wrap" />
+            <StackPanel Height="auto" Orientation="Horizontal">
+                <TextBox
+                    x:Name="tbSearchProva"
+                    Width="200"
+                    Height="26"
+                    Margin="0,6"
+                    VerticalContentAlignment="Center"
+                    Text=""
+                    TextWrapping="Wrap" />
+                <Button
+                    x:Name="btnRefresh"
+                    Width="auto"
+                    Height="auto"
+                    Margin="5,0,0,0"
+                    Background="Transparent"
+                    Command="{Binding ProvasRefresh}"
+                    Content="{iconPacks:PackIconMaterial Kind=Refresh,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding ProvasRefreshContent}" />
+                <Button
+                    x:Name="btnExport"
+                    Width="auto"
+                    Height="auto"
+                    Margin="5,0,0,0"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Command="{Binding ExportList}"
+                    Content="{iconPacks:PackIconMaterial Kind=Export,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding ExportProvasList}" />
+                <Button
+                    x:Name="btnNew"
+                    Width="auto"
+                    Height="auto"
+                    Margin="05,0,0,0"
+                    Background="Transparent"
+                    BorderThickness="0"
+                    Command="{Binding NewProva}"
+                    Content="{iconPacks:PackIconMaterial Kind=Plus,
+                                                         Width=26,
+                                                         Height=26,
+                                                         Spin=False}"
+                    DockPanel.Dock="Right"
+                    Foreground="#0047ab"
+                    Style="{StaticResource TransparentStyle}"
+                    ToolTip="{Binding InsertProva}" />
+            </StackPanel>
+            <DataGrid
+                x:Name="dgdAtletas"
+                Height="auto"
+                AutoGenerateColumns="False"
+                Background="Transparent"
+                CanUserAddRows="False"
+                CanUserDeleteRows="False"
+                CellStyle="{StaticResource DataGridContentCentering02}"
+                GridLinesVisibility="None"
+                IsReadOnly="True"
+                ItemsSource="{Binding}"
+                RowBackground="Transparent"
+                RowHeight="36"
+                SelectedItem="{Binding SelectedItem}"
+                SelectionMode="Single"
+                SelectionUnit="FullRow">
+                <DataGrid.Columns>
+                    <DataGridTextColumn
+                        x:Name="Id"
+                        Binding="{Binding Id}"
+                        Header="Id"
+                        Visibility="Hidden" />
+                    <DataGridTextColumn
+                        x:Name="Data"
+                        Width="Auto"
+                        MinWidth="80"
+                        Binding="{Binding DataNasc, StringFormat=\{0:dd-MM-yyyy HH:mm\}}"
+                        ElementStyle="{StaticResource CellCenterText}"
+                        Header="Data" />
+                    <DataGridTextColumn
+                        x:Name="Prova"
+                        Width="Auto"
+                        Binding="{Binding Prova}"
+                        Header="Prova" />
+                    <DataGridTextColumn
+                        x:Name="Local"
+                        Width="Auto"
+                        Binding="{Binding Local}"
+                        Header="Local" />
+                    <DataGridTextColumn
+                        x:Name="Categoria"
+                        Width="Auto"
+                        Binding="{Binding Categoria}"
+                        Header="Categoria" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

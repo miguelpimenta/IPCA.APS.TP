@@ -1,0 +1,235 @@
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\bin\Debug\GesNautico.UI.exe
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\bin\Debug\GesNautico.UI.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\GesNautico.UI.csprojResolveAssemblyReference.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\MainWindow.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Settings\About.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Settings\Appearance.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Home.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\SettingsPage.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\App.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\MainWindow.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Settings\About.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Settings\Appearance.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\Home.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\App.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\GesNautico.UI.g.resources
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\GesNautico.UI.exe
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico.UI\GesNautico.UI\obj\Debug\GesNautico.UI.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.exe
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\LiteDB.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\LiteDB.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.csprojResolveAssemblyReference.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\MainWindow.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Themes\Theme01.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\App.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\MainWindow.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\App.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.cache
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.lref
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.g.resources
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.exe
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.exe
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\MainWindow.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Themes\Theme01.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\App.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\App.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.cache
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.lref
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.g.resources
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.exe
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.pdb
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_Content.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\gesnautico01.png
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\gesnautico01.png
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\user.png
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_Content.g.cs
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\user.png
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.baml
+C:\Users\jpv\Documents\Development MP\IPCA\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.g.cs
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.baml
+C:\Users\Miguel Pimenta\Documents\Visual Studio 2015\Projects\IPCA.APS\coderepo\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.exe
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\gesnautico01.png
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\Views\Resources\user.png
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.exe
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.UI.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\LiteDB.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Core.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.Shared.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\LiteDB.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\GesNautico.DAL.pdb
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.csprojResolveAssemblyReference.cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\MainWindow.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Themes\Theme01.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\App.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\FichaAtletaView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\About.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\Appearence.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\InicioView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Settings\SettingsPage.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\App.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_Content.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.cache
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI_MarkupCompile.lref
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\AjudaView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasProxAniverView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\AtletasView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\PremiosView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\ProvasView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Atletas\Atleta\AtletaView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Empty.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosProxAniverView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\SociosView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\GesNautico.UI.g.resources
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\FichaSocioView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\Socio\SocioView.g.cs
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\FichaSocioView.baml
+C:\Users\Miguel Pimenta\Desktop\IPCA\APS\GesNautico\GesNautico.UI\obj\Debug\Views\Socios\Socio\SocioView.baml
